@@ -19,7 +19,7 @@ Aquestes eines permeten escriure codi, detectar errors i executar programes. Sen
 
 ## Codi utilitzat
 
-```python
+
 dni = int(input("Introdueix el número del DNI (sense lletra): "))
 
 lletres = "TRWAGMYFPDXBNJZSQVHLCKE"
