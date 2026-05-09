@@ -65,5 +65,30 @@ print("La lletra del DNI és:", lletra)
 
 Per acabar, mostro per pantalla la lletra calculada.  
 
+  Proves d’execució
+✔ Prova 1:
+
+Entrada:
+12345678
+
+Sortida:
+La lletra del DNI és: Z
+
+✔ Prova 2:
+
+Entrada:
+87654321
+
+Sortida:
+La lletra del DNI és: X
+
+  Explicació
+El programa demana el número del DNI, calcula la posició amb % 23 i retorna la lletra corresponent.
+
+---
+
+## Vídeo
+
+(Aquí enganxes el vídeo de Google Vids)
 En C# seria:  
 Console.WriteLine("La lletra del DNI és: " + lletra);
