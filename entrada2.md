@@ -88,7 +88,6 @@ El programa demana el número del DNI, calcula la posició amb % 23 i retorna la
 ---
 
 ## Vídeo
-
-(Aquí enganxes el vídeo de Google Vids)
+https://drive.google.com/file/d/1HVH7s7874u_jwj5-gQrZFpgifd9y99u_/view?usp=sharing
 En C# seria:  
 Console.WriteLine("La lletra del DNI és: " + lletra);
