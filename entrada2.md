@@ -66,7 +66,7 @@ print("La lletra del DNI és:", lletra)
 Per acabar, mostro per pantalla la lletra calculada.  
 
   Proves d’execució
-✔ Prova 1:
+Prova 1:
 
 Entrada:
 12345678
@@ -74,7 +74,7 @@ Entrada:
 Sortida:
 La lletra del DNI és: Z
 
-✔ Prova 2:
+Prova 2:
 
 Entrada:
 87654321
